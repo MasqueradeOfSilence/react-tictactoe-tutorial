@@ -3,4 +3,4 @@
 
 Note: had to do a different version of `package.json` than what they gave me.
 
-Text I left off on: "React Developer Tools let you check "
+Text I left off on: "Lifting state up "
